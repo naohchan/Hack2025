@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "${workspaceFolder}/venv/bin/python",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay"
+  }
+  
